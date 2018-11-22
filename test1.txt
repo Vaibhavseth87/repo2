@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 90B4-6002
+
+ Directory of C:\Users\sethv\Desktop\GIT Repository
+
+22.11.2018  15:18    <DIR>          .
+22.11.2018  15:18    <DIR>          ..
+22.11.2018  15:18                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  90.426.036.224 bytes free
